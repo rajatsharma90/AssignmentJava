@@ -32,7 +32,7 @@ public class Car extends Vehicle{
         if(getSeat()>5){
             SellingPrice=CostPrice+5000;
 
-            // adding a comment no no. no
+            // adding a comment no no. no ssup
 
 
         else if(getSeat()>2&&getSeat()<=5){
