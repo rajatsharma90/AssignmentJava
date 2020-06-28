@@ -31,7 +31,8 @@ public class Car extends Vehicle{
     public String CalcSellingPrice(){
         if(getSeat()>5){
             SellingPrice=CostPrice+5000;
-            // adding a comment
+            // adding a comment no no. no
+
         }
         else if(getSeat()>2&&getSeat()<=5){
             SellingPrice=CostPrice+7500;
